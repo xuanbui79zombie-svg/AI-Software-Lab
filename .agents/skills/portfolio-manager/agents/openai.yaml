@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portfolio Manager"
+  short_description: "Plan and maintain the developer portfolio system."
+  default_prompt: "Use $portfolio-manager to prioritize and track my developer portfolio."

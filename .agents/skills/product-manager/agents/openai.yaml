@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Manager"
+  short_description: "Define product scope, requirements, and outcomes."
+  default_prompt: "Use $product-manager to turn this idea into a validated product plan."

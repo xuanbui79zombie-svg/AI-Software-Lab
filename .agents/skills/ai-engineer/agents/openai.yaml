@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Engineer"
+  short_description: "Design reliable AI features, evaluations, and safeguards."
+  default_prompt: "Use $ai-engineer to design and evaluate this AI capability."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Engineer"
+  short_description: "Plan risk-based testing and verify release quality."
+  default_prompt: "Use $qa-engineer to create and execute a test strategy for this change."

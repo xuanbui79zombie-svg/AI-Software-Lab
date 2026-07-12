@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open-Source Maintainer"
+  short_description: "Operate healthy repositories and contributor workflows."
+  default_prompt: "Use $open-source-maintainer to prepare this repository for contributors."

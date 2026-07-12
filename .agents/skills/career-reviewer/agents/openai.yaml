@@ -1,0 +1,4 @@
+interface:
+  display_name: "Career Reviewer"
+  short_description: "Evaluate portfolio evidence for target engineering roles."
+  default_prompt: "Use $career-reviewer to assess this project for resume and interview value."
