@@ -1,0 +1,57 @@
+name: Framework improvement
+description: Propose a scoped improvement to governance, templates, automation, or Codex skills.
+title: "[Proposal]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      description: What long-term portfolio or maintenance need is not met today?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: Define a verifiable result without prescribing unnecessary implementation details.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and non-goals
+      description: What is included, and what should remain unchanged?
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Portfolio and maintenance value
+      description: Explain technical value, contributor value, resume value, and expected maintenance cost.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: List observable conditions that would make the proposal complete.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and risks
+      description: What other options were considered, and what could go wrong?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-submission checks
+      options:
+        - label: I searched existing issues and pull requests.
+          required: true
+        - label: This proposal does not add a business project to this repository.
+          required: true

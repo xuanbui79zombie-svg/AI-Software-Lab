@@ -49,10 +49,12 @@
 - 用户可见行为、安装方式或配置变化必须更新 `README.md`。
 - 产品范围和验收标准变化必须更新 `docs/PRODUCT.md`。
 - 架构、组件边界或关键技术决策变化必须更新 `docs/ARCHITECTURE.md`。
+- 跨模块、难以逆转或影响后续项目的决策必须新增或更新 `docs/adr/` 中的 ADR。
 - 数据模型、迁移或索引变化必须更新 `docs/DATABASE.md`。
 - API 契约、认证或错误格式变化必须更新 `docs/API.md`。
 - 技术栈和版本策略变化必须更新 `TECH_STACK.md`。
 - 对用户或维护者有影响的变化必须记录到 `CHANGELOG.md`。
+- 贡献、安全或支持流程变化必须同步更新 `CONTRIBUTING.md`、`SECURITY.md` 或 `SUPPORT.md`。
 
 ## Git 规范
 
