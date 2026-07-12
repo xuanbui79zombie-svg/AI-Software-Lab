@@ -6,7 +6,14 @@
 
 | 项目名称 | GitHub 地址 | 技术栈 | 完成度 | Demo 地址 | 简历价值评分 |
 | --- | --- | --- | ---: | --- | ---: |
-| 暂无项目 | — | — | 0% | — | — |
+| [AI Idea Hunter](https://github.com/xuanbui79zombie-svg/AI-Idea-Hunter) | [GitHub](https://github.com/xuanbui79zombie-svg/AI-Idea-Hunter) | HTML, CSS, ES Modules, Node.js 24 test runner, GitHub Actions, GitHub Pages | 100% | [Live Demo](https://xuanbui79zombie-svg.github.io/AI-Idea-Hunter/) | 3/5 |
+
+### AI Idea Hunter 评分依据
+
+- 已完成产品、架构、实现、测试、安全审查、CI/CD、开源治理和 `v1.0.0` 发布。
+- 有公开仓库、在线 Demo、24 个测试、111 个断言和可追踪的 Milestone 提交记录。
+- 能够证明独立产品交付、前端工程、本地数据治理、测试和 GitHub 发布能力。
+- 尚无外部用户、使用量、效率提升或商业结果，因此当前评分保持 3/5，不宣称已验证商业价值。
 
 ## 记录规则
 
@@ -39,8 +46,8 @@
 
 ## 更新检查
 
-- [ ] GitHub 地址有效且仓库可访问。
-- [ ] 技术栈与实际代码一致。
-- [ ] 完成度有对应的交付证据。
-- [ ] Demo 可以正常访问或播放。
-- [ ] 简历价值评分有明确依据。
+- [x] GitHub 地址有效且仓库可访问。
+- [x] 技术栈与实际代码一致。
+- [x] 完成度有对应的交付证据。
+- [x] Demo 可以正常访问或播放。
+- [x] 简历价值评分有明确依据。

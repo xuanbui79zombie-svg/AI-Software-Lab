@@ -69,7 +69,9 @@ GitHub Actions runs the same validation for every pull request and every change 
 
 ## Current Status
 
-The portfolio framework is active and ready to govern future projects. No business project has been created in this repository.
+The portfolio framework is active. The first independently delivered project is [AI Idea Hunter](https://github.com/xuanbui79zombie-svg/AI-Idea-Hunter), with a public [GitHub Pages demo](https://xuanbui79zombie-svg.github.io/AI-Idea-Hunter/) and `v1.0.0` release.
+
+Its current resume value remains evidence-bounded: complete delivery is verified, while external adoption and commercial outcomes are not yet measured.
 
 ## License
 

@@ -15,6 +15,7 @@ All notable changes to the portfolio framework are documented in this file. The 
 
 - Expanded the README into a complete framework entry point.
 - Clarified sources of truth to prevent roadmap, status, workflow, and skill drift.
+- Recorded AI Idea Hunter as the first released portfolio project with repository, demo, delivery evidence, and an evidence-bounded resume score.
 
 ## Historical Milestones
 
