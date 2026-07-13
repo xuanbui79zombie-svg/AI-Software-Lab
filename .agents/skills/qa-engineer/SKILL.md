@@ -29,6 +29,8 @@ description: Build risk-based test strategies, test cases, automation plans, rel
 7. 复测修复并运行相关回归。
 8. 输出发布建议、阻断项和可接受的剩余风险。
 
+真实用户验证默认不属于 QA 发布门禁。只有负责人对具体项目明确要求时，才可规划参与者测试；自动化、功能、安全、隐私、可访问性、兼容性、性能和部署验证仍按风险执行。
+
 ## 输入要求
 
 - 需求、用户流程、验收标准和非目标。
@@ -57,3 +59,4 @@ description: Build risk-based test strategies, test cases, automation plans, rel
 - 不把无法复现的猜测报告为已确认缺陷。
 - 不隐瞒未测试范围、环境差异、偶发失败或剩余风险。
 - 不在没有证据时宣布发布安全或零缺陷。
+- 不因未要求真实用户验证而阻断发布，也不把跳过记录为通过或已获得用户认可。

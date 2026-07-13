@@ -69,3 +69,9 @@
 - **假设**：`<ASSUMPTION>`
 - **风险**：`<RISK>`
 - **验证方式**：`<VALIDATION>`
+
+## 真实用户验证状态
+
+- **状态**：`Not requested / 未要求`
+- 遵循 [`USER_VALIDATION_POLICY.md`](../USER_VALIDATION_POLICY.md)。除非负责人明确要求本项目启用，否则不创建或执行真实用户验证。
+- 未执行时保留相关结论为假设或未知项，不声称用户认可、可用性、采用率、市场需求或商业结果。

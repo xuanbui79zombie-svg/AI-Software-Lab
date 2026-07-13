@@ -55,6 +55,7 @@
 ├── SUPPORT.md
 ├── TASKS.md
 ├── TECH_STACK.md
+├── USER_VALIDATION_POLICY.md
 └── README.md
 ```
 
@@ -110,6 +111,7 @@
 - [API](docs/API.md)
 - [Architecture Decisions](docs/adr/)
 - [Tasks](TASKS.md)
+- [Real-user validation policy](USER_VALIDATION_POLICY.md)
 - [Changelog](CHANGELOG.md)
 - [Contributing](CONTRIBUTING.md)
 - [Security](SECURITY.md)

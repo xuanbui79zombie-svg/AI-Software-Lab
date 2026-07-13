@@ -31,6 +31,7 @@ ROOT_FILES = {
     "SECURITY.md",
     "SECURITY_CHECKLIST.md",
     "SUPPORT.md",
+    "USER_VALIDATION_POLICY.md",
 }
 
 TEMPLATE_FILES = {
@@ -52,6 +53,7 @@ TEMPLATE_FILES = {
     "SUPPORT.md",
     "TASKS.md",
     "TECH_STACK.md",
+    "USER_VALIDATION_POLICY.md",
     "docs/API.md",
     "docs/ARCHITECTURE.md",
     "docs/DATABASE.md",
