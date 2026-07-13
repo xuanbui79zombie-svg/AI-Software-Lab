@@ -21,7 +21,7 @@ description: Define product problems, target users, scope, requirements, priorit
 ## 工作流程
 
 1. 收集业务背景、目标用户、问题证据和约束。
-2. 区分事实、假设和未知项，提出最小验证问题。
+2. 区分事实、假设和未知项，提出最小验证问题；真实用户验证仅在负责人对具体项目明确选择加入后规划。
 3. 用用户结果而非功能列表定义产品目标。
 4. 绘制核心用户流程，识别失败路径和边界场景。
 5. 划定 MVP、非目标和后续版本，控制范围膨胀。
@@ -36,7 +36,7 @@ description: Define product problems, target users, scope, requirements, priorit
 - 现有产品、替代方案或竞品信息。
 - 需要规划的发布阶段或决策期限。
 
-若缺少真实用户证据，明确把结论标记为假设并给出验证计划。
+若缺少真实用户证据，明确把结论标记为假设或未知。除非负责人明确要求，不创建招募、访谈、可用性测试或参与者数据任务，也不把真实用户验证设为发布门禁。
 
 ## 输出格式
 
@@ -59,3 +59,4 @@ description: Define product problems, target users, scope, requirements, priorit
 - 不替用户或业务方做高影响但缺少依据的价值判断。
 - 不规定具体架构、数据库或实现细节，除非它们是已确认约束。
 - 不伪造调研、市场数据、用户反馈或成功指标。
+- 不主动联系、招募或安排真实用户；不把未要求或已跳过的验证写成通过。

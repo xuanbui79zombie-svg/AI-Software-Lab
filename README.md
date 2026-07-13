@@ -21,6 +21,7 @@ The full portfolio criteria are defined in [PORTFOLIO_MISSION.md](PORTFOLIO_MISS
 | Planning | [PROJECT_ROADMAP.md](PROJECT_ROADMAP.md) | Candidate projects, priority, technical value, and commercial value |
 | Evidence | [PORTFOLIO_STATUS.md](PORTFOLIO_STATUS.md) | Delivered projects, demos, completion, and resume value |
 | Delivery | [DEVELOPMENT_WORKFLOW.md](DEVELOPMENT_WORKFLOW.md) | Eight-stage software delivery lifecycle |
+| Validation policy | [USER_VALIDATION_POLICY.md](USER_VALIDATION_POLICY.md) | Real-user validation is opt-in; engineering validation remains required |
 | Architecture | [FRAMEWORK_ARCHITECTURE.md](FRAMEWORK_ARCHITECTURE.md) | Boundaries, information flow, and extension rules |
 | Quality | [CODE_REVIEW_CHECKLIST.md](CODE_REVIEW_CHECKLIST.md) and [SECURITY_CHECKLIST.md](SECURITY_CHECKLIST.md) | Review and security gates |
 | Execution | [`templates/project-template`](templates/project-template/) and [`.agents/skills`](.agents/skills/) | Reusable project and Codex operating assets |
@@ -31,8 +32,9 @@ The full portfolio criteria are defined in [PORTFOLIO_MISSION.md](PORTFOLIO_MISS
 2. Rank accepted candidates in the roadmap; do not start from an unreviewed idea.
 3. Create a separate repository from the project template.
 4. Use the development workflow and the relevant Codex skills to deliver it.
-5. Record only verifiable outcomes, demos, and evidence in the portfolio status.
-6. Promote a project to a resume only after it meets the documented quality bar.
+5. Run engineering validation by default; run real-user validation only after an explicit project-specific owner request.
+6. Record only verifiable outcomes, demos, and evidence in the portfolio status.
+7. Promote a project to a resume only after it meets the documented quality bar.
 
 ## Repository Map
 
@@ -47,6 +49,7 @@ The full portfolio criteria are defined in [PORTFOLIO_MISSION.md](PORTFOLIO_MISS
 |-- PROJECT_ROADMAP.md
 |-- PORTFOLIO_STATUS.md
 |-- DEVELOPMENT_WORKFLOW.md
+|-- USER_VALIDATION_POLICY.md
 `-- FRAMEWORK_ARCHITECTURE.md
 ```
 

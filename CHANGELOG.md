@@ -6,6 +6,7 @@ All notable changes to the portfolio framework are documented in this file. The 
 
 ### Added
 
+- A bilingual opt-in real-user validation policy for the portfolio framework and project template.
 - Community contribution, conduct, support, and security policies.
 - Long-term maintenance and portfolio framework architecture documentation.
 - Issue forms, pull request template, ownership rules, and dependency update configuration.
@@ -13,6 +14,7 @@ All notable changes to the portfolio framework are documented in this file. The 
 
 ### Changed
 
+- Made real-user validation owner-requested instead of a default task or release gate while preserving all engineering quality checks.
 - Expanded the README into a complete framework entry point.
 - Clarified sources of truth to prevent roadmap, status, workflow, and skill drift.
 - Recorded AI Idea Hunter as the first released portfolio project with repository, demo, delivery evidence, and an evidence-bounded resume score.
